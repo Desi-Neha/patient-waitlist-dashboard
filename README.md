@@ -1,10 +1,5 @@
 # 📊 NHS Waitlist Analytics Dashboard – Power BI  
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi)  
-![Healthcare](https://img.shields.io/badge/Domain-Healthcare-blue)  
-![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-green)  
-![Status](https://img.shields.io/badge/Status-Completed-success)  
-
 An **interactive Power BI dashboard** designed to analyze **Inpatient & Outpatient waitlist trends** across multiple specialties.  
 The project provides **detailed and summary-level insights** to support healthcare planning, resource allocation, and performance monitoring.  
 
@@ -38,11 +33,17 @@ The project provides **detailed and summary-level insights** to support healthca
 
 ---
 
+## 📂 Repository Structure  
+
+
+
 ├── Inpatient/ # Power BI dashboard + dataset
 ├── Outpatient/ # Power BI dashboard + dataset
 ├── Mapping_Specialty.csv # Reference mapping file
 ├── images/ # Screenshots for README.md
 └── README.md # Project documentation
+
+
 
 ---
 
