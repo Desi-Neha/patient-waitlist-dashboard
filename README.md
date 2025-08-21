@@ -64,11 +64,11 @@ The project provides **detailed and summary-level insights** to support healthca
 
 ## 📌 Author  
 
-👩‍💻 **FDesi Neha P**  
+👩‍💻 **Desi Neha P**  
 📍 Bengaluru,Karnataka,India
 🔗 [LinkedIn](https://www.linkedin.com/in/desi-neha-prakash-652605326/) | [GitHub](https://github.com/Desi-Neha)  
 
 ---
 
-## 📂 Repository Structure  
+
 
