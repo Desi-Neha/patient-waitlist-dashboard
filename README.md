@@ -1,2 +1,74 @@
-# patient-waitlist-dashboard
+# 📊 NHS Waitlist Analytics Dashboard – Power BI  
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi)  
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-blue)  
+![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-green)  
+![Status](https://img.shields.io/badge/Status-Completed-success)  
+
+An **interactive Power BI dashboard** designed to analyze **Inpatient & Outpatient waitlist trends** across multiple specialties.  
+The project provides **detailed and summary-level insights** to support healthcare planning, resource allocation, and performance monitoring.  
+
+---
+
+## 🚀 Key Features  
+
+### 🔎 Detailed View  
+- 📅 Filter by **Archive Date (Month/Year)**  
+- 🏥 Breakdown by **Case Type** (Inpatient / Day Case)  
+- 🩺 Analysis by **Specialty** (Dermatology, Breast Surgery, etc.)  
+- 👩‍⚕️ **Age Profiles** (16–64, 65+, 18+ months)  
+- ⏳ Distribution by **Time Bands** (0–3 months, 3–6 months, etc.)  
+
+### 📈 Summary View  
+- 🔹 **Latest Month vs. Previous Year Comparison**  
+- 🔹 **Average / Median Waitlist** by case type  
+- 🔹 **Top 5 Specialties** with highest waitlist impact  
+- 🔹 **Age-profile & Time-band distribution**  
+- 🔹 **Trend over time** (line chart for case types)  
+
+---
+
+## 📸 Dashboard Screenshots  
+
+### 🏥 Inpatient Waitlist Dashboard  
+![Inpatient Dashboard](images/inpatient_dashboard.png)  
+
+### 👩‍⚕️ Outpatient Waitlist Dashboard  
+![Outpatient Dashboard](images/outpatient_dashboard.png)  
+
+---
+
+├── Inpatient/ # Power BI dashboard + dataset
+├── Outpatient/ # Power BI dashboard + dataset
+├── Mapping_Specialty.csv # Reference mapping file
+├── images/ # Screenshots for README.md
+└── README.md # Project documentation
+
+---
+
+## 🛠️ Tools & Tech  
+
+- **Power BI** → Interactive dashboards, slicers, and DAX measures  
+- **CSV datasets** → Input data & specialty mapping  
+- **Data Modeling** → Time-bands, case types & age profiles  
+
+---
+
+## 💡 Insights Unlocked  
+
+✔ Identifies **growing patient backlog** across age groups & specialties  
+✔ Visualizes **seasonal or monthly variations** in healthcare demand  
+✔ Supports **administrators & planners** in reducing bottlenecks  
+
+---
+
+## 📌 Author  
+
+👩‍💻 **FDesi Neha P**  
+📍 Bengaluru,Karnataka,India
+🔗 [LinkedIn](https://www.linkedin.com/in/desi-neha-prakash-652605326/) | [GitHub](https://github.com/Desi-Neha)  
+
+---
+
+## 📂 Repository Structure  
 
