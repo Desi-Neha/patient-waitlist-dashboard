@@ -36,13 +36,13 @@ The project provides **detailed and summary-level insights** to support healthca
 ## 📂 Repository Structure  
 
 
-
+```text
 ├── Inpatient/ # Power BI dashboard + dataset
 ├── Outpatient/ # Power BI dashboard + dataset
 ├── Mapping_Specialty.csv # Reference mapping file
 ├── images/ # Screenshots for README.md
 └── README.md # Project documentation
-
+```
 
 
 ---
